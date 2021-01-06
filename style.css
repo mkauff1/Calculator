@@ -5,3 +5,11 @@
     padding: 5px;
     margin: 5px;
 }
+
+.double-wide-button
+{
+    width: 90px;
+    height: 40px;
+    padding: 5px;
+    margin: 5px;
+}
